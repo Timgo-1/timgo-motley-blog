@@ -20,7 +20,7 @@ const Header = () => {
           <Link href="/">
             <a style={{ display: 'flex' }}>
               <span><img src="/images/loqo.png" alt="TG" width={50} height={50} /></span>
-              <span className="cursor-pointer font-bold text-4xl text-yellow-600 hover:text-pink-200">TIMZY MOTLEY BLOG</span>
+              <span className="cursor-pointer font-bold text-5xl text-yellow-600 hover:text-pink-200">TIMZY MOTLEY BLOG</span>
             </a>
           </Link>
         </div>
