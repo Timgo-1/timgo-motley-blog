@@ -3,12 +3,13 @@
 @tailwind utilities;
 
 //@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto Condensed&family=Pacifico&family=Playfair+Display&family=Yuji+Mai&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko&family=Pacifico&family=Playfair+Display&family=Yuji+Mai&display=swap');
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Roboto Condensed', Yuji Mai;
+  font-family: 'Teko', Yuji Mai;
+  
   //font-family: 'Yuji Mai', serif;
   &:before{
     content:'';
